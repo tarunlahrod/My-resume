@@ -1,6 +1,6 @@
 # My Resume
 #### This repo contains all my resume and CV.
-<br> Find my latest resume [here](https://github.com/tarunlahrod/My-resume/blob/master/Tarun%20Lahrod%20CV%20(27%20Nov%2C%202019).pdf)
+<br> Find my latest resume [here](https://github.com/tarunlahrod/My-resume/blob/master/Tarun%20Lahrod%20CV%20(26%20Feb%2C%202020).pdf)
 <br><br>
 __Contact me__
 <br> LinkedIn - [www.linkedin.com/in/tarun-lahrod/](https://www.linkedin.com/in/tarun-lahrod/)
